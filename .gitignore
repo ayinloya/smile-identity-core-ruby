@@ -13,4 +13,4 @@
 # rspec failure tracking
 .rspec_status
 .DS_Store
-spec/fixtures/mock_response
+spec/fixtures/mock_response/*.yml
